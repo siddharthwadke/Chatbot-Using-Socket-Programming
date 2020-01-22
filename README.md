@@ -1,6 +1,7 @@
 # Client_Server_using_Sockets
 
-# ECE683 COMPUTER NETWORK DESIGN AND ANALYSIS
+# Course 
+ECE683 COMPUTER NETWORK DESIGN AND ANALYSIS
 ## Problem statement: 
 Programing a peer to peer chatting application. The objective is to show ability to utilize the socket concept to establish networking connection between 2 workstations and exchange text.
 ### Programming Language: 
